@@ -2,7 +2,7 @@ try:
     from Tkinter import *
 except:
     from tkinter import *
-from tkMessageBox import *
+import tkinter.messagebox
 import sqlite3
 from datetime import date
 #from function import *
@@ -136,7 +136,6 @@ def func1():
                                     break
                             #print d1
                             if flag==1:
-                                print count,empty,flag
                                 empty=int(empty)
                                 today = date.today()
                                 d1 = today.strftime("%Y")
@@ -591,7 +590,6 @@ def func1():
                                                 flag=1
                                                 break
                                         if flag==1:
-                                            print count,empty,flag
                                             empty=int(empty)
                                             today = date.today()
                                             d1 = today.strftime("%Y")
