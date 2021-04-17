@@ -8,5 +8,5 @@
 
 ![Alt Text](https://i.imgur.com/j2OUVM8.gif)
 
-**_any kind of furthur modification is appreciated._**
+**_any kind of furthur modification is appreciated :)._**
 
