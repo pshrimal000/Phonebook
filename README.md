@@ -6,7 +6,7 @@
 
 ### `Working Demo`
 
-![Alt Text](https://i.imgur.com/j2OUVM8.gif)
+![Alt Text](https://i.imgur.com/nM3iS39.gif)
 
 **_any kind of furthur modification is appreciated :)._**
 
